@@ -1,2 +1,2 @@
 # Proyecto_de_Clase
-Integrantes: Carlos Daniel Mamani Corina, Albert Alexander Cordero Rivera, Sadam Jose Quispe Chino 
+Desarrollado con Java Motor de base de datos en MYSQL y despliegue realizado con apache tomcat
